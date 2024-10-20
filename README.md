@@ -5,6 +5,7 @@
 _Create and run a GitHub Actions workflow._
 
 </header>
+![image](https://github.com/user-attachments/assets/8e802873-9849-4aa8-b49d-addca03e43fd)
 
 ## Step 5: Trigger the workflow
 
